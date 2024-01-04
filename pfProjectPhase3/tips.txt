@@ -1,0 +1,4 @@
+1 1 500 Khan
+2 2 600 Zamir
+2 1 400 Fahad
+1 2 400 Akram
